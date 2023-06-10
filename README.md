@@ -24,14 +24,20 @@ Git merge cadastro: Adicionou as informações do perfil/branch cadastro para a 
 gitk : Exibe todos os detalhes da branch . 
 
 --
-git clone https://github.com/srique7/doc_git.git   : faz o upload das informações do git para o github 
+git clone https://github.com/srique7/doc_git.git   : baixa as informações do projeto para o repositório.
 
+--
 
+git push: faz o upload das informações do git para o github 
 
+--
 
+Git pull:
 
 
 ERROS: 
 Caso o sistema solicite identificação no momento do commit
 git config --global use.name "<seu_nome>"
 git config --global use.email "<seu_email>"
+
+ERRO: 403 : Apagando as credenciais, gerenciamento de credenciais.
