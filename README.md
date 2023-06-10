@@ -32,7 +32,7 @@ git push: faz o upload das informações do git para o github
 
 --
 
-Git pull:
+Git pull: Puxa as informações que estão no GIThub para o documento do projeto.
 
 
 ERROS: 
