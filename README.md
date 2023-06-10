@@ -15,24 +15,20 @@ Git Log: Apresenta dados que estão no commit.
 CTRL + L : limpa a tela do GIT
 --
 git checkout -b develop : Criou o perfil de develop (homologação), depois o de cadastro e de login
+--
 git checkout develop: muda o perfil atual para develop ou o perfil/branch que for escolhido.
-
 --
 Git merge cadastro: Adicionou as informações do perfil/branch cadastro para a branch develop que estava ativa no momento.
 --
-
 gitk : Exibe todos os detalhes da branch . 
-
 --
 git clone https://github.com/srique7/doc_git.git   : baixa as informações do projeto para o repositório.
-
 --
-
 git push: faz o upload das informações do git para o github 
-
 --
-
 Git pull: Puxa as informações que estão no GIThub para o documento do projeto.
+
+
 
 
 ERROS: 
