@@ -12,7 +12,7 @@ git add
 ````
 Faz a validação dos arquivos dentro do projeto.
 ````
-git Status
+git status
 ````
 Ele é responsável por criar uma nova versão do projeto com as referências do criador.(usado apenas quando o arquivo está verde)
 ````
