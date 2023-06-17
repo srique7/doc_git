@@ -14,6 +14,13 @@ Faz a validação dos arquivos dentro do projeto.
 ````
 git status
 ````
+Configuração de usuário do GIT, Caso o sistema solicite identificação no momento do commit
+````
+git config --global use.name "<seu_nome>"
+````
+````
+git config --global use.email "<seu_email>"
+````
 Ele é responsável por criar uma nova versão do projeto com as referências do criador.(usado apenas quando o arquivo está verde)
 ````
 git commit -m "<texto_da_modificação>" 
@@ -60,11 +67,5 @@ git pull
 
 ERROS : 
 --
-Caso o sistema solicite identificação no momento do commit
-````
-git config --global use.name "<seu_nome>"
-````
-````
-git config --global use.email "<seu_email>"
-````
+
 ERRO: 403 : Resolve apagando as credenciais do sistema no gerenciamento de credenciais.
