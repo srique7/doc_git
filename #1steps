@@ -1,0 +1,26 @@
+Contribuir com um projeto:
+
+Realizar um forc no projeto que você irá contribuir
+
+
+Realizar um clone do projeto para começar a fazer as alterações:
+      Abrir a pasta padrão para armazenar o projeto, clicar com botão direito do mouse e escolher a opção 'git bash here'. 
+      Com os dados do projeto baixada, criar pasta do repositório com seu nome.  
+git clone  com o link copiado do github
+
+$ git checkout -b develop (altera ambiente)
+$ git status
+$ git add . (adiciona as mudanças da pasta que está trabalhando)
+$ git status (verifica o status do arquivo)
+$ git commit -m 'criando estrutura html do projeto' (comenta sobre o que será enviado)
+$ git push (envia o projeto para o GIT)
+
+		No git
+vai em Pull requests 
+
+Para retomar o projeto:
+--
+Atualizar código principal com as alterações:
+````
+$ git pull 
+````
